@@ -1,0 +1,31 @@
+img {
+    /*max-height: 200px;*/
+    max-width: 100%;
+}
+
+.article {
+    border-bottom-color: beige;
+    border-bottom-style: solid;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title {
+    font-size: x-large;
+}
+
+.author {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.author sup {
+    text-align: right;
+}
+
+nav a {
+    color: beige;
+    font-weight: bold;
+    font-size: 40px;
+}
